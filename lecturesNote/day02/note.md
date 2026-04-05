@@ -1,0 +1,11 @@
+- faster coding with collect and modify
+- focus on code efficiency means few lines  better work
+- efficient problem solving
+- gofullpage extension
+- wp privacy
+- wanted
+- data scrapper
+- project ideas
+- make useable things as project
+- things are sasy now so learn and build faster
+- ai temperature what is it and how to use it?
