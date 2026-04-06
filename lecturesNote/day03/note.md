@@ -1,0 +1,7 @@
+- learning loops
+- pycharm settings config
+- lightshot sw for ss
+- remove.bg 
+- understands the problem statement first, try to write/break into small problem 
+- understand logic comes first
+- 
